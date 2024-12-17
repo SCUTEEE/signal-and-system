@@ -1,6 +1,6 @@
 ---
 title: 信号与系统
-type: series
+series: true
 cascade:
   params:
     math: true
