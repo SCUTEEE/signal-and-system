@@ -1,0 +1,42 @@
+repo: https://github.com/SCUTEEE/course-template/tree/resources
+tree:
+- folder: assignments
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/assignments/README.md
+    size: 421.0 B
+    modified: '2025-06-10'
+- folder: books
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/books/README.md
+    size: 78.0 B
+    modified: '2025-06-10'
+- folder: exams
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/exams/README.md
+    size: 104.0 B
+    modified: '2025-06-10'
+- folder: lab
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/lab/README.md
+    size: 165.0 B
+    modified: '2025-06-10'
+- folder: notes
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/notes/README.md
+    size: 149.0 B
+    modified: '2025-06-10'
+- folder: slides
+  children:
+  - file: README.md
+    url: https://github.com/SCUTEEE/course-template/blob/resources/slides/README.md
+    size: 191.0 B
+    modified: '2025-06-10'
+- file: README.md
+  url: https://github.com/SCUTEEE/course-template/blob/resources/README.md
+  size: 254.0 B
+  modified: '2025-06-10'
