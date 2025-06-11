@@ -1,7 +1,7 @@
 ---
-title: 课程名
+title: 信号与系统
 series: true
-github: github仓库地址
+github: https://github.com/SCUTEEE/signal-and-system
 ---
 
 <!-- 该文件用于网站显示 -->
